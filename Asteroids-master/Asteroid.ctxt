@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Asteroid
+comment0.text=\r\n\ A\ rock\ in\ space.\r\n\ \r\n\ @author\ Poul\ Henriksen\r\n\ @author\ Michael\ K\u00F6lling\r\n
+comment1.params=
+comment1.target=Asteroid()
+comment1.text=\r\n\ This\ is\ the\ default\ constructor\ for\ objects\ of\ type\ Asteroid\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment2.params=size
+comment2.target=Asteroid(int)
+comment2.text=\r\n\ Asteroid\ is\ the\ constructor\ for\ objects\ of\ type\ Asteroid.\r\n\ It\ allows\ customization\ of\ the\ size\ of\ the\ Asteroid\r\n\ \r\n\ @param\ size\ represents\ the\ size\ of\ the\ Asteroid\r\n\ @return\ An\ object\ of\ type\ Asteroid\r\n
+comment3.params=size\ velocity
+comment3.target=Asteroid(int,\ Vector)
+comment3.text=\r\n\ Asteroid\ is\ the\ constructor\ for\ objects\ of\ type\ Asteroid.\r\n\ It\ allows\ customization\ of\ the\ size\ of\ the\ Asteroid\ and\r\n\ the\ speed\ and\ direction\ of\ the\ Asteroid\r\n\ \r\n\ @param\ size\ represents\ the\ size\ of\ the\ Asteroid\r\n\ @param\ velocity\ represents\ the\ speed\ and\ direction\ of\ the\ Asteroid\r\n\ @return\ An\ object\ of\ type\ Asteroid\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ act\ is\ the\ method\ that\ is\ run\ on\ every\ \r\n\ iteration\ of\ the\ act\ cycle\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=size
+comment5.target=void\ setSize(int)
+comment5.text=\r\n\ Method\ setSize\ sets\ the\ size\ of\ the\ astroid\r\n\r\n\ @param\ size\ A\ parameter\ used\ to\ set\ the\ size\ of\ an\ astroid\r\n\ @return\ nothing\ is\ returned\r\n
+comment6.params=damage
+comment6.target=void\ hit(int)
+comment6.text=\r\n\ Method\ hit\ damages\ the\ astroid\ the\ damage\ amount\r\n\r\n\ @param\ damage\ A\ parameter\ used\ to\ set\ how\ much\ damage\ happens\ to\ the\ astroid\r\n\ @return\ nothing\ is\ returned\r\n
+comment7.params=numBreakUp
+comment7.target=void\ breakUp(int)
+comment7.text=\r\n\ Method\ breakUp\ gets\ rid\ of\ the\ astroid\ and\ splits\ it\ into\ mulitpul\ diffrent\ smaller\ pices\r\n\r\n\ @param\ numBreakUp\ A\ parameter\ use\ to\ say\ how\ many\ pices\ the\ astroid\ should\ break\ up\ into\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=8
